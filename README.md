@@ -51,3 +51,12 @@
 - [x] 双网口驱动正常，默认屏蔽I210网卡(部分机器启动I210网卡会卡引导)
 - [ ] 读卡器无SD卡测试，但读卡器走的USB3.2hub，理论上可以使用
 - [ ]  雷电三载系统信息中能看到，但是无雷电硬件测试
+
+
+![ccacf7938176a7d57322528d2680a614](https://github.com/zpyangchina/NUC9-hackintosh/assets/42115887/45836538-0740-49e9-8d46-8eddc9f87d07)
+![2061f15338c552253e3c37a2aa63c646](https://github.com/zpyangchina/NUC9-hackintosh/assets/42115887/8b981158-2262-4ed4-870e-33756277ae03)
+![c187fa5fb42b7383e27b228d383c377f](https://github.com/zpyangchina/NUC9-hackintosh/assets/42115887/d8d50d98-eb0b-4b60-88f6-902ee8c5e981)
+![e5c92b1b7f2358fe74d83eb462588da1](https://github.com/zpyangchina/NUC9-hackintosh/assets/42115887/9f8bc9d3-9b7d-418e-aa2f-e03d74cc29c3)
+![18c5a84216405bcd1271ea7f91e16cfb](https://github.com/zpyangchina/NUC9-hackintosh/assets/42115887/2acb1af4-ae1e-4cfb-84b6-6eda8d83cc35)
+
+
