@@ -22,7 +22,7 @@
 
   Storage -> SATA Mode Selection > AHCI
 
-- Security (可不进行如下设置)
+- Security (可选设置)
 
   Intel Platform Trust Technology > Unchecked
 
