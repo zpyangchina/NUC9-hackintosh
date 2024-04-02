@@ -60,3 +60,4 @@
 ![18c5a84216405bcd1271ea7f91e16cfb](https://github.com/zpyangchina/NUC9-hackintosh/assets/42115887/2acb1af4-ae1e-4cfb-84b6-6eda8d83cc35)
 
 
+推荐使用ocat编辑，https://github.com/ic005k/OCAuxiliaryTools
